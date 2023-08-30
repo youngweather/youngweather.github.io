@@ -679,7 +679,7 @@
     "presetid": "rnbo",
     "meta": {
       "architecture": "x64",
-      "filename": "DR Cheby Sketch RNBO.maxpat",
+      "filename": "Polynomials and Sound.maxpat",
       "maxversion": "8.5.5",
       "rnboversion": "1.1.2"
     }
@@ -755,7 +755,7 @@
           "value": 1
         },
         "x-frequency": {
-          "value": 87
+          "value": 70
         }
       }
     },
@@ -900,7 +900,7 @@
           "value": 0
         },
         "synth-or-loop": {
-          "value": 1
+          "value": 2
         },
         "x-frequency": {
           "value": 87
