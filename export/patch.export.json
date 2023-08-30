@@ -686,7 +686,7 @@
   },
   "presets": [
     {
-      "name": "T4",
+      "name": "T3",
       "preset": {
         "add-1": {
           "value": 0
@@ -752,7 +752,81 @@
           "value": 0
         },
         "synth-or-loop": {
+          "value": 1
+        },
+        "x-frequency": {
+          "value": 87
+        }
+      }
+    },
+    {
+      "name": "T4",
+      "preset": {
+        "add-1": {
+          "value": 1
+        },
+        "add-5": {
+          "value": 0
+        },
+        "add-6": {
+          "value": 0
+        },
+        "coeffecient-2": {
+          "value": 8
+        },
+        "coefficient-1": {
+          "value": 8
+        },
+        "coefficient-3": {
+          "value": 1
+        },
+        "coefficient-4": {
+          "value": 1
+        },
+        "coefficient-5": {
+          "value": 1
+        },
+        "effect-volume": {
+          "value": 77.30000000000001
+        },
+        "exponent-1": {
+          "value": 3
+        },
+        "exponent-2": {
           "value": 2
+        },
+        "exponent-3": {
+          "value": 1
+        },
+        "exponent-4": {
+          "value": 1
+        },
+        "exponent-5": {
+          "value": 1
+        },
+        "length": {
+          "value": 1
+        },
+        "loop-volume": {
+          "value": 128
+        },
+        "noeffect-volume": {
+          "value": 0
+        },
+        "play-loop": {
+          "value": 1
+        },
+        "speed": {
+          "value": 1
+        },
+        "start": {
+          "value": 0
+        },
+        "subtract-1": {
+          "value": 0
+        },
+        "synth-or-loop": {
+          "value": 1
         },
         "x-frequency": {
           "value": 87
@@ -763,36 +837,13 @@
       "name": "T5",
       "preset": {
         "add-1": {
-          "value": 5
-        },
-        "coeffecient-2": {
-          "value": 20
-        },
-        "coefficient-1": {
-          "value": 16
-        },
-        "exponent-1": {
-          "value": 5
-        },
-        "exponent-2": {
-          "value": 3
-        },
-        "x-frequency": {
-          "value": 70
-        }
-      }
-    },
-    {
-      "name": "T6",
-      "preset": {
-        "add-1": {
           "value": 0
         },
         "add-5": {
-          "value": 1
+          "value": 0
         },
         "add-6": {
-          "value": 1
+          "value": 0
         },
         "coeffecient-2": {
           "value": 20
@@ -804,10 +855,10 @@
           "value": 5
         },
         "coefficient-4": {
-          "value": 7
+          "value": 1
         },
         "coefficient-5": {
-          "value": 9
+          "value": 1
         },
         "effect-volume": {
           "value": 77.30000000000001
@@ -822,19 +873,22 @@
           "value": 1
         },
         "exponent-4": {
-          "value": 2
+          "value": 1
         },
         "exponent-5": {
-          "value": 2
+          "value": 1
         },
         "length": {
           "value": 1
         },
         "loop-volume": {
-          "value": 0
+          "value": 128
         },
         "noeffect-volume": {
           "value": 0
+        },
+        "play-loop": {
+          "value": 1
         },
         "speed": {
           "value": 1
@@ -845,8 +899,381 @@
         "subtract-1": {
           "value": 0
         },
+        "synth-or-loop": {
+          "value": 1
+        },
         "x-frequency": {
-          "value": 70
+          "value": 87
+        }
+      }
+    },
+    {
+      "name": "T6",
+      "preset": {
+        "add-1": {
+          "value": 0
+        },
+        "add-5": {
+          "value": 0
+        },
+        "add-6": {
+          "value": 0
+        },
+        "coeffecient-2": {
+          "value": 48
+        },
+        "coefficient-1": {
+          "value": 32
+        },
+        "coefficient-3": {
+          "value": 18
+        },
+        "coefficient-4": {
+          "value": 1
+        },
+        "coefficient-5": {
+          "value": 1
+        },
+        "effect-volume": {
+          "value": 77.30000000000001
+        },
+        "exponent-1": {
+          "value": 6
+        },
+        "exponent-2": {
+          "value": 4
+        },
+        "exponent-3": {
+          "value": 2
+        },
+        "exponent-4": {
+          "value": 1
+        },
+        "exponent-5": {
+          "value": 1
+        },
+        "length": {
+          "value": 1
+        },
+        "loop-volume": {
+          "value": 128
+        },
+        "noeffect-volume": {
+          "value": 0
+        },
+        "play-loop": {
+          "value": 1
+        },
+        "speed": {
+          "value": 1
+        },
+        "start": {
+          "value": 0
+        },
+        "subtract-1": {
+          "value": 1
+        },
+        "synth-or-loop": {
+          "value": 1
+        },
+        "x-frequency": {
+          "value": 87
+        }
+      }
+    },
+    {
+      "name": "T7",
+      "preset": {
+        "add-1": {
+          "value": 0
+        },
+        "add-5": {
+          "value": 0
+        },
+        "add-6": {
+          "value": 0
+        },
+        "coeffecient-2": {
+          "value": 112
+        },
+        "coefficient-1": {
+          "value": 64
+        },
+        "coefficient-3": {
+          "value": 56
+        },
+        "coefficient-4": {
+          "value": 7
+        },
+        "coefficient-5": {
+          "value": 1
+        },
+        "effect-volume": {
+          "value": 77.30000000000001
+        },
+        "exponent-1": {
+          "value": 7
+        },
+        "exponent-2": {
+          "value": 5
+        },
+        "exponent-3": {
+          "value": 3
+        },
+        "exponent-4": {
+          "value": 1
+        },
+        "exponent-5": {
+          "value": 1
+        },
+        "length": {
+          "value": 1
+        },
+        "loop-volume": {
+          "value": 128
+        },
+        "noeffect-volume": {
+          "value": 0
+        },
+        "play-loop": {
+          "value": 1
+        },
+        "speed": {
+          "value": 1
+        },
+        "start": {
+          "value": 0
+        },
+        "subtract-1": {
+          "value": 0
+        },
+        "synth-or-loop": {
+          "value": 1
+        },
+        "x-frequency": {
+          "value": 87
+        }
+      }
+    },
+    {
+      "name": "T8",
+      "preset": {
+        "add-1": {
+          "value": 0
+        },
+        "add-5": {
+          "value": 1
+        },
+        "add-6": {
+          "value": 0
+        },
+        "coeffecient-2": {
+          "value": 256
+        },
+        "coefficient-1": {
+          "value": 128
+        },
+        "coefficient-3": {
+          "value": 160
+        },
+        "coefficient-4": {
+          "value": 32
+        },
+        "coefficient-5": {
+          "value": 1
+        },
+        "effect-volume": {
+          "value": 72
+        },
+        "exponent-1": {
+          "value": 8
+        },
+        "exponent-2": {
+          "value": 6
+        },
+        "exponent-3": {
+          "value": 4
+        },
+        "exponent-4": {
+          "value": 2
+        },
+        "exponent-5": {
+          "value": 1
+        },
+        "length": {
+          "value": 1
+        },
+        "loop-volume": {
+          "value": 128
+        },
+        "noeffect-volume": {
+          "value": 0
+        },
+        "play-loop": {
+          "value": 1
+        },
+        "speed": {
+          "value": 1
+        },
+        "start": {
+          "value": 0
+        },
+        "subtract-1": {
+          "value": 0
+        },
+        "synth-or-loop": {
+          "value": 1
+        },
+        "x-frequency": {
+          "value": 87
+        }
+      }
+    },
+    {
+      "name": "T9",
+      "preset": {
+        "add-1": {
+          "value": 0
+        },
+        "add-5": {
+          "value": 0
+        },
+        "add-6": {
+          "value": 0
+        },
+        "coeffecient-2": {
+          "value": 576
+        },
+        "coefficient-1": {
+          "value": 256
+        },
+        "coefficient-3": {
+          "value": 432
+        },
+        "coefficient-4": {
+          "value": 120
+        },
+        "coefficient-5": {
+          "value": 9
+        },
+        "effect-volume": {
+          "value": 66
+        },
+        "exponent-1": {
+          "value": 9
+        },
+        "exponent-2": {
+          "value": 7
+        },
+        "exponent-3": {
+          "value": 5
+        },
+        "exponent-4": {
+          "value": 3
+        },
+        "exponent-5": {
+          "value": 1
+        },
+        "length": {
+          "value": 1
+        },
+        "loop-volume": {
+          "value": 128
+        },
+        "noeffect-volume": {
+          "value": 0
+        },
+        "play-loop": {
+          "value": 1
+        },
+        "speed": {
+          "value": 1
+        },
+        "start": {
+          "value": 0
+        },
+        "subtract-1": {
+          "value": 0
+        },
+        "synth-or-loop": {
+          "value": 1
+        },
+        "x-frequency": {
+          "value": 87
+        }
+      }
+    },
+    {
+      "name": "T10",
+      "preset": {
+        "add-1": {
+          "value": 0
+        },
+        "add-5": {
+          "value": 1
+        },
+        "add-6": {
+          "value": 1
+        },
+        "coeffecient-2": {
+          "value": 1280
+        },
+        "coefficient-1": {
+          "value": 512
+        },
+        "coefficient-3": {
+          "value": 1120
+        },
+        "coefficient-4": {
+          "value": 400
+        },
+        "coefficient-5": {
+          "value": 50
+        },
+        "effect-volume": {
+          "value": 56
+        },
+        "exponent-1": {
+          "value": 10
+        },
+        "exponent-2": {
+          "value": 8
+        },
+        "exponent-3": {
+          "value": 6
+        },
+        "exponent-4": {
+          "value": 4
+        },
+        "exponent-5": {
+          "value": 2
+        },
+        "length": {
+          "value": 1
+        },
+        "loop-volume": {
+          "value": 128
+        },
+        "noeffect-volume": {
+          "value": 0
+        },
+        "play-loop": {
+          "value": 1
+        },
+        "speed": {
+          "value": 1
+        },
+        "start": {
+          "value": 0
+        },
+        "subtract-1": {
+          "value": 0
+        },
+        "synth-or-loop": {
+          "value": 1
+        },
+        "x-frequency": {
+          "value": 87
         }
       }
     }
