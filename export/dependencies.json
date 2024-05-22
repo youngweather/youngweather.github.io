@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "bells",
+    "file": "media/Bells.wav"
+  },
+  {
+    "id": "acogtr",
+    "file": "media/Acogtr.wav"
+  },
+  {
+    "id": "vocal",
+    "file": "media/Vocal.wav"
+  },
+  {
+    "id": "drums",
+    "file": "media/Drumloop1.wav"
+  },
+  {
+    "id": "voxpad",
+    "file": "media/Voxpad.wav"
+  }
+]
